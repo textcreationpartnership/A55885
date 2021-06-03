@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Robert his plot discovered wherein is declared how he caused a souldier to be disguised like himselfe, who in that habit was set upon and slaine by the souldiers of the Parliaments forces : published to prevent the false and lying discoveries concerning Prince Robert : also the happinesse of peace, and the misery whereinto a land is ingaged by the cruelty of civill and domestick war.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55885</idno><idno type="EEBO-CITATION">12411552</idno>
+  <idno type="VID">61542</idno>
+  <idno type="EEBO-PROQUEST">2240968241</idno>
+  
+            <idno type="STC">Wing P3486</idno>
+            <idno type="STC">ESTC R2192</idno>
+            <idno type="OCLC">12411552</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55885)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61542)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 248:E127, no 16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Robert his plot discovered wherein is declared how he caused a souldier to be disguised like himselfe, who in that habit was set upon and slaine by the souldiers of the Parliaments forces : published to prevent the false and lying discoveries concerning Prince Robert : also the happinesse of peace, and the misery whereinto a land is ingaged by the cruelty of civill and domestick war.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for T. Watson and J. Jackson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Novemb. 16, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61542:1"/>
+            <p>PRINCE ROBERT <hi>HIS</hi> PLOT DISCOVERED: Wherein is declared, how he caused a soul<g ref="char:EOLhyphen"/>dier to be disguised like himselfe, who in that habit was set upon and slaine by the souldiers of the Parliaments Forces.</p>
+            <p>Published to prevent the false and lying Discoveries concerning Prince ROBERT.</p>
+            <p>
+               <hi>ALSO</hi> THE HAPPINESSE OF PEACE; AND The misery whereinto a Land is ingaged by the cruelty of civill and domestick War.</p>
+            <p>
+               <hi>LONDON, Novemb.</hi> 16. Printed for <hi>T. Watson</hi> and <hi>J. Jackson.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61542:2"/>
+            <pb n="1" facs="tcp:61542:2"/>
+            <head>PRINCE ROBERT His Plot discovered, by causing a souldier to be disguised like himselfe, who was slain by the Parliaments Forces:</head>
+            <head type="sub">Also the happinesse of peace, and the misery whereinto a land is engaged by domestick warre.</head>
+            <div type="part">
+               <p>THe habit doth not shew the wit of the braine, nor the valour of the heart, it may deceive the expectation and make a peasant seem a gallant Prince, but yet he is but a peasant. And that Prince who doth use any ambiguity of habit to ecclipse his beames of honour, is but a counterfeited sonne, true honour is ever constant, and shines brightest in most ap<g ref="char:EOLhyphen"/>parent danger. This appeared not in Prince Robert, who to avoid the chance of warre cast by impartiall fate, made another stand between him and the blow of war, being in habit, horse and armour so like Prince Ro<g ref="char:EOLhyphen"/>bert, that they tooke him to be the same plundering Prince, or els some fiery spirit
+<pb n="2" facs="tcp:61542:3"/> mounted on some airy apparition in the likenes of a horse, some soldiers seeing him (as they thought) made up towards him shott at him, wounded him, and at last ran him many tymes through the body, but when they thought they had killd Prince Robert, taking of his Beaver that was slain, they discovured a counterfeit Prince, being a soldier whom Prince Robert had caused to bee thus disguised, might spend their furey on this counterfeit Prince, and here<g ref="char:EOLhyphen"/>by shewed himselfe a pale coward, and gay<g ref="char:EOLhyphen"/>ning nothing but dishonour by this dis<g ref="char:EOLhyphen"/>guise. True valour hath no wings, no dis<g ref="char:EOLhyphen"/>guise, it doth loue to be reall in act, and the greatest geief of this relation is, that it was a disguised Prince Robert, and not Prince Robert himselfe, who is dayly slayne with wishes, and whose death is the expectation of the Kingdomes happnisse: but though he bee not dead, (and yet that is supposed to be true) he hath by this attempt lost much-reputation, and is dead in fame and honour, and dives but a languishing Sacri<g ref="char:EOLhyphen"/>fice to be offered to the Genius of this land by th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Souldiers sword.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:61542:3"/>
+               <head>Of warre in generall.</head>
+               <p>WAr is the mistris of honour one way, and the lady of dissentions, tumults &amp; conten<g ref="char:EOLhyphen"/>tions another; and that is when she dream'd of a plentifuller world in the Moone, then the orbe she rules in, she never appears more amiable then when she ingageth her knights of the sun in forraigne parts, when she stoupes to take her gage up in a just and lawfull quarrell, then doth the trophee of war deck her a bride for <hi>Mars,</hi> then fame and honour at<g ref="char:EOLhyphen"/>tend her, then swels her lofty plume kist by the wind to curles, then justice arms her hand, and reli<g ref="char:EOLhyphen"/>gion is exalted, in whose bright temperature is mixt that majesty, that load-stone like draws victory to her hand, causing the gyant elephants of opposition to break their way through fortitude, thunder mock thunder, and the stately towers whose gold-tipt tur<g ref="char:EOLhyphen"/>rets point up to the spheres, do homage to her cha<g ref="char:EOLhyphen"/>riot spokes below: then is <hi>Bellona</hi> strung up to the height, when canons cloud the azure face of heaven and make the sun appeare a ball of fire, when cities flame as sacrific'd by wrath, and fell destruction paves the way before her, when death not satisfied would time destroy in winding up his own catastro<g ref="char:EOLhyphen"/>phe, &amp; make a <hi>Chaos</hi> where war sets her foot, there the cries of age and helplesse impotents, of suckling mothers &amp; their tender babes, mixt with the dying groanes of thousands slaine, make up the consort of her harmony: A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d what wins shee when all this game is done, or profit gathers from her deso<g ref="char:EOLhyphen"/>lations, but the bare name of Ours, when no<g ref="char:EOLhyphen"/>thing is left guilt with the title called Victory:
+<pb n="4" facs="tcp:61542:4"/> and this is the condition of rough war, and ever was almost, since the first morning of the world broke day, who from the Babilonians loftinesse, making ascents to heaven, had his pride punished with a sudden fall, from whence the confusion of tongues first rose, became nations, overspread the earth, divi<g ref="char:EOLhyphen"/>ded it to each people its part, over which parts sprung up severall Rulers and Kings, who with each golden scepter swayed and ruled their own and were obeyed by them; then navigation finding each rule forth, brought kinde commerce to be ac<g ref="char:EOLhyphen"/>quainted with them, commerce caused merchants traffique with each other, so as heavens store en<g ref="char:EOLhyphen"/>richt not all alike, one nation grew beholden to an<g ref="char:EOLhyphen"/>other, till sprung that weed of emulation, who was begot by pride, and ingratude, the worst bred mon<g ref="char:EOLhyphen"/>ster in the world, from which fell fury sprung a branch that bore covetous desirings, budding forth contention, blossomed by the heat of resolution, grows to quarrell, and ripens to revenge, whence sprung this <hi>Colossus</hi> war, the executioner of wrath when mighty Potentates lay by their peace to justle kingdomes into one another, cropping one title to make tother grow; this was of old the pageant of the world, wherein rode honour, fame and victory, having waded through the purple of their con<g ref="char:EOLhyphen"/>quests, crowned with lawrell, were <hi>Romes</hi> former <hi>Caesars,</hi> whose fame throughout the world kist their own ecchoes their meeting <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem, and terrour struck the earth to hear them named, till triple-headed an<g ref="char:EOLhyphen"/>tichrist sprung up and raised up Babels whore of pride again, who with heresie and superstition filled her
+<pb n="5" facs="tcp:61542:4"/> cup, &amp; tooting her ten-horn'd beast with it through Christendome with buls, beads, bell, book and can<g ref="char:EOLhyphen"/>dle to light their <hi>Machiavels</hi> profession thorow us, and quite cry down the name of Protestant, in de<g ref="char:EOLhyphen"/>fence wherof war ought justly to arise, then honour well becoms her, and sits upon her crest indeed,</p>
+               <epigraph>
+                  <q>
+                     <l>Then lowd fame entertains her with applause,</l>
+                     <l>When she weares victory in a righteous cause.</l>
+                  </q>
+               </epigraph>
+            </div>
+            <div type="part">
+               <head>Of domestick war, or home-contention.</head>
+               <p>AS war it self is kept within the bounds of na<g ref="char:EOLhyphen"/>tionall Lawes, called the Law of Armes, by Princes oaths duly observed and kept, so when the former swords obscured cuts truces bands, it lets war loose into its naturall wildnesse, and death and ruin aime at their advantage, and as flame feeds on fuell til it be ashes, so war devoures the substance of Princes. But when she riseth in her own domini<g ref="char:EOLhyphen"/>ons, and with the high-rais'd wind of her contenti<g ref="char:EOLhyphen"/>on, as in a glasse, breaks her own forme to peeces, nay the very frame and substance of her selfe, then nature frighted from her swan-downe softnesse, stands trembling to behold her owne sad ruines, when as one land, one King, one people, and one Church, as a rich chaine linkt fast in one another, breaks off by discord to oppose it selfe, then war puts on her worst deformity, and growes a terrour to her self, opens the fluces from the conduit-heads, whence runs the circuit of her own hearts bloud, as witnesse <hi>England</hi> in the crown of <hi>England, Henry</hi> 6. by <hi>Richard</hi> Duke of <hi>York,</hi> their opposition stood in no defence, for no blow struck but fell upon the striker, no blood-letter, no blood-loser, but an Eng<g ref="char:EOLhyphen"/>lish
+<pb n="6" facs="tcp:61542:5"/> man, no blood-drinker but the English can<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> then the father slew the son, the son made way th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>row the fathers heart, brother slew brother, ki<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<g ref="char:EOLunhyphen"/>man butcher'd kinsman, friend his friend; the fath<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> there the mother childlesse made, the child the mo<g ref="char:EOLhyphen"/>ther husbandlesse; there wofull widowes wr<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> their hands, and cries of orphans beat the pittilesse ayr, there no redresse appear'd, no comfort rose, but lamentation with distraction joyn'd, nature kils na<g ref="char:EOLhyphen"/>ture in a civil war, and one eye is the others Basil<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, as fiery in execution, as if they tug'd with Turks,</p>
+               <epigraph>
+                  <q>
+                     <l>And Infidels, which that it here may cease,</l>
+                     <l>Heaven of his goodnesse turn this war to peace.</l>
+                  </q>
+               </epigraph>
+            </div>
+            <div type="part">
+               <head>The blest and happy estate of peace.</head>
+               <p>WArs edge is here taken off, and the angry clouds that muster'd up their stormes, to fight against mountains, all as clear as <hi>Cynthia,</hi> th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> twins of amity, two silver doves have taken their flight unto the olive groves, and there ingendred▪ peace and love together; how happy is that land where they remain, a second Canaan, or new Par<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dise, and will require a new inhabitant; there each man may under his own vine enjoy earths heav<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of peace without strife or debate, where peace an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> love remain fresh with plenty, unshak'd by autum<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, kist by wrinkled age; time halts, not peace, nor ma<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> true love decrepit, nor in his yeeres diurnall wa<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> their store, but layes them in their graves as the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have liv'd: O would we could this time for tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> exchange!</p>
+               <epigraph>
+                  <q>
+                     <l>And that we may see peace againe rrvive,</l>
+                     <l>May he who other wishes never thrive.</l>
+                  </q>
+               </epigraph>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
